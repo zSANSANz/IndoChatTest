@@ -1,0 +1,1 @@
+SELECT name FROM `employee` WHERE manager_id = '3'
